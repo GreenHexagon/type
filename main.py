@@ -2,7 +2,7 @@ import sys
 from time import sleep
 
 def type(w, delay = 0.25, instant=False, newline=True):
-  if instant == True:
+  if instant == True and delay != 0:
     delay = 0
   for char in w:
     sys.stdout.write(char)
