@@ -12,7 +12,7 @@ version = '0.1'
 
 release = '0.1.0b'
 
-html_theme = ‘alabaster’
+html_theme = "alabaster"
 html_sidebars = {
     '**': [
         'about.html',
