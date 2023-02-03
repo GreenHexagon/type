@@ -1,4 +1,4 @@
-# Type
+# TerminalTyping
 Module for terminal type effects  
 
 ## Documentation

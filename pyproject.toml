@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "type"
+name = "TerminalTyping"
 version = "0.1.0"
-description = "Single function module for typing"
+description = "Module for typing effects in the terminal"
 authors = ["GreenHexagon <irrelevantpersonindividual@gmail.com>"]
 
 [tool.poetry.dependencies]
