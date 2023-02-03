@@ -1,7 +1,5 @@
 # Type
 Module for terminal type effects  
-[![Documentation Status](https://readthedocs.org/projects/type/badge/?version=latest)](https://type.readthedocs.io/en/latest/?badge=latest)
-
 
 ## Documentation
 
