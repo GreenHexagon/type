@@ -12,13 +12,13 @@ version = '0.1'
 
 release = '0.1.0b'
 
-html_theme = "alabaster"
-html_sidebars = {
-    '**': [
-        'about.html',
-        'navigation.html',
-        'relations.html',
-        'searchbox.html',
-        'donate.html',
-    ]
-}
+#html_theme = "alabaster"
+#html_sidebars = {
+    #'**': [
+        #'about.html',
+        #'navigation.html',
+        #'relations.html',
+        #'searchbox.html',
+        #'donate.html',
+    #]
+#}
