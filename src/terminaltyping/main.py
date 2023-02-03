@@ -2,16 +2,7 @@ import sys
 from time import sleep
 
 class Typing():
-  def type(self, w, delay = 0.25, instant=False, newline=True):
-    if instant == True and delay != 0:
-      delay = 0
-    for char in w:
-      sys.stdout.write(char)
-      sys.stdout.flush()
-      sleep(delay)
-    if newline == True:
-      print("")
-  def colortype(self, w, rgb = [0,0,0], delay=0.25, instant=False, newline=True):
+  def ttype(self, w, rgb = [0,0,0], delay=0.25, instant=False, newline=True):
     if instant == True and delay != 0:
       delay = 0
     r = rgb[0]
