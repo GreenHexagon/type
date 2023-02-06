@@ -1,8 +1,10 @@
 import sys
 from time import sleep
+from typing import Union
+
 
 class Typing():
-  def ttype(self, w, rgb = [0,0,0], delay=0.25, instant=False, newline=True):
+  def tType(self, w, rgb:typingColors | list, delay=0.25, instant=False, newline=True):
     if instant == True and delay != 0:
       delay = 0
     r = rgb[0]
@@ -17,3 +19,6 @@ class Typing():
     if newline == True:
       print("")
     print("\033[0m")
+  class typingColors:
+    def new(self, r, g, b):
+      pass
