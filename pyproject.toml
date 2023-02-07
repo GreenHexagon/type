@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "TerminalTyping"
-version = "0.1.0"
+version = "0.0.5"
 description = "Module for typing effects in the terminal"
 authors = ["GreenHexagon <irrelevantpersonindividual@gmail.com>"]
 
