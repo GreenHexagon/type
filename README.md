@@ -1,4 +1,6 @@
 [![PyPI version](https://badge.fury.io/py/TerminalTyping.svg)](https://www.github.com/GreenHexagon/type)
+[![Documentation Status](https://readthedocs.org/projects/type/badge/?version=latest)](https://type.readthedocs.io/en/latest/?badge=latest)
+
 # TerminalTyping
 Module for terminal type effects  
 
